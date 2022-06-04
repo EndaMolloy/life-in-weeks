@@ -35,8 +35,8 @@
 // -------------------------------------
 
 // Wifi network station credentials
-char ssid[] = "VODAFONE-8A80";     // your network SSID (name)
-char password[] = "EUF8MSZTKST4S9A8"; // your network key
+char ssid[] = "";     // your network SSID (name)
+char password[] = ""; // your network key
 
 
 // -------------------------------------
